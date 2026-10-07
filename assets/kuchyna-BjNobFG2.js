@@ -1,0 +1,1 @@
+var e=`/assets/kuchyna-Bm9Ni1IG.jpg`;export{e as t};

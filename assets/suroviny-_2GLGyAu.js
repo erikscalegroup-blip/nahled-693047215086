@@ -1,0 +1,1 @@
+var e=`/assets/suroviny-DTJ8N5z0.jpg`;export{e as t};

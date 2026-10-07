@@ -1,0 +1,1 @@
+var e=`/assets/vyklapanie-Cnv7dsMb.jpg`;export{e as t};

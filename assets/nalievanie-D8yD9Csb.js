@@ -1,0 +1,1 @@
+var e=`/assets/nalievanie-2Dc5BtPL.jpg`;export{e as t};
